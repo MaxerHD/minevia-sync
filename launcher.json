@@ -1,0 +1,9 @@
+{
+ "version": "0.3.0",
+ "size": 114373076,
+ "sha512": "59ecd9c2a793e78dedcf5108e36f1824e16f29a44d4e521c1291e4cc7d84a6e75441803cf33d2f2339c7001b17df448a114b8d8d2d1eddbeaf5e2a76780c8e5e",
+ "parts": [
+  "launcher/part-0",
+  "launcher/part-1"
+ ]
+}
