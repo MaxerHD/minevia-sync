@@ -100,6 +100,18 @@
    "size": 1519243
   },
   {
+   "name": "entity_model_features-3.3.12-1.21-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/90RfzkYP/entity_model_features-3.3.12-1.21-fabric.jar",
+   "sha512": "0ab99fec33bb27334adf002b911f2834bd5cecc1e9a02acb6b7eda1b5e989cc704b7c35a0ee716fe86d43e4f20b5307a2dd55766b1018c4e1422c863d411c013",
+   "size": 653743
+  },
+  {
+   "name": "entity_texture_features-7.2.7-1.21-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/AMUABkxD/entity_texture_features-7.2.7-1.21-fabric.jar",
+   "sha512": "a21a652b63aaa56f0fb306ec07d33061f28eca6bf89ce6dc99c37b7efc963adbc98bdada1d0074277e4da6b3eb3c63ac453541bf80ecd5dc142203e3ca7f6219",
+   "size": 805015
+  },
+  {
    "name": "fabric-api-0.116.17+1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Mys3P7lK/fabric-api-0.116.17%2B1.21.1.jar",
    "sha512": "98c478217da19181f0e4df3ea6c2da6bdbda271c7544a4aea048513a49b444f1ff5b71dc0df6303017c48e8ff69b7bb6af6179bdf0d0e09ab3c1ee08411857a8",
@@ -316,6 +328,175 @@
    "size": 587855
   }
  ],
+ "packs": [
+  {
+   "name": "Faithful 64x - Release 6.zip",
+   "url": "https://cdn.modrinth.com/data/r4GILswZ/versions/BauEG3pq/Faithful%2064x%20-%20Release%206.zip",
+   "sha512": "049569de400479d33bbc99acb79084b937d37da3e7a16edd8e248b135344eab48c1735bf664d697ce5f2ee15ea0b07f1dead634395a82862d9ab3b2bb8264589",
+   "size": 16767880,
+   "incompatible": false
+  },
+  {
+   "name": "better-leaves.zip",
+   "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/w4ReEpuG/Better-Leaves-9.6.zip",
+   "sha512": "793dacaca4c200656e8875195e42975ecb628af114e13aad2059368b51cf45f00280f86075368e9adf492e847718a9d593bdf481664e10cf1aa9628d2a51a8d6",
+   "size": 1977146,
+   "incompatible": false
+  },
+  {
+   "name": "better-3d-beds.zip",
+   "url": "https://cdn.modrinth.com/data/LukwUauE/versions/d3akIBaA/%C2%A7lBetter%20Beds.zip",
+   "sha512": "cbae31fd16d757eba34e539c60b979e6fb5062a01810a33633914d2cce98d4072a902c4119bd9c192f461b755c676c0ac2eb866725e3a58a2e72cdc1d0ad56dd",
+   "size": 114299,
+   "incompatible": true
+  },
+  {
+   "name": "alternative-rain-sounds.zip",
+   "url": "https://cdn.modrinth.com/data/IjeNkkG5/versions/6NhQYOHT/Alternative%20Rain%20Sounds%201.21.9-1.21.11.zip",
+   "sha512": "fc84ac9a7aed476094397e51683791f0ed3c7afeea216b2dc5fffbf6bb4b6e53be3cd9645794655f0e20a51ce4e01ae9b9b6ebbed78b5d227c770f6cc79c3281",
+   "size": 583637,
+   "incompatible": false
+  },
+  {
+   "name": "undopia-3d-doors.zip",
+   "url": "https://cdn.modrinth.com/data/e5jnoI0R/versions/BpMREqhj/Undopia_3D_Doors_1.21_v.1.1.zip",
+   "sha512": "01d6c8bc72cd78c51f3ea586a164eabece59cab12b440d9cb578394a70f8e24f454ae52fafdde638cc5a9233092961437b2ede407f881cc2786f76bd8ad34f52",
+   "size": 234412,
+   "incompatible": false
+  },
+  {
+   "name": "better-boats.zip",
+   "url": "https://cdn.modrinth.com/data/yMI9tliS/versions/5iUEJUmj/%C2%A79Better%20Boats.zip",
+   "sha512": "1c848251751cab4c3bc8599707f6dc8c1e9546f29f7aef1d77c984d4dcf6ede4f6c20580e327ce9237d84eba0a772353ab2d1e4f0dc9599c0c101d91f2371b93",
+   "size": 68160,
+   "incompatible": false
+  },
+  {
+   "name": "borderless-glass.zip",
+   "url": "https://cdn.modrinth.com/data/1Ja8Sg6j/versions/AaBDFaRI/Borderless%2BGlass%2Bv1.0%28mc-1.21%29.zip",
+   "sha512": "6d433c65233ee5fb7b38b9eef33f10d448f0397238cbf7e28383d1566992a9cf83584cffed0338b535863388a12cf87d32e0b3e60f9431e596e14896ab0a7717",
+   "size": 20766,
+   "incompatible": false
+  },
+  {
+   "name": "reimagined.zip",
+   "url": "https://cdn.modrinth.com/data/ta5dy0aA/versions/3tFrhmJ5/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.63.7%5D%C2%A70.zip",
+   "sha512": "2bd746f3c2f6c2f804ba69d5238e0effee1425b1d03b90631b2c8cda19a5f470cea9161f228b084b2368e147a4618f8b6e4cec56c5971590e727828958e42f8b",
+   "size": 36255954,
+   "incompatible": false
+  },
+  {
+   "name": "spawned-eggs.zip",
+   "url": "https://cdn.modrinth.com/data/yPBwDzHA/versions/4FFWDY0J/Spawned_Eggs_1.16-26.2_r1.zip",
+   "sha512": "d5bfb32808a9f3de10723890d8c0e6a303f45b821305a3e00a4ce98b94b6861f8d6e56da74c3ad9bfd72534dfe2dad641ca8a4ef8b72a178898f213178168d01",
+   "size": 131750,
+   "incompatible": false
+  },
+  {
+   "name": "glowing-trim-elytra.zip",
+   "url": "https://cdn.modrinth.com/data/2OXong6G/versions/JMjTkp7P/Glowing%20Trim%20Elytra%5BMG-5.0%5D%5B1.21.0-1.21.1%5D.zip",
+   "sha512": "942fd6d96d9ddd8c95b18681816abbaf64226c07365398689ac669cba4156c97f2e3421004c9591b06ff3fd25c1f5df7b794b1b4b63a1873daf839ff647ebdce",
+   "size": 2484795,
+   "incompatible": false
+  },
+  {
+   "name": "gui-retextures.zip",
+   "url": "https://cdn.modrinth.com/data/ZM5PH9W6/versions/wAjTwVcx/GUIRetextures-2.1.zip",
+   "sha512": "979319e94d100aec82ba53f2f93c548e32d9ddfb32683a7e9a1daa77f52c6fb35162e8f6a45ee22217c025a638c946b60aaa63e541867969660287c65b02be62",
+   "size": 604566,
+   "incompatible": false
+  },
+  {
+   "name": "simple-hotbar.zip",
+   "url": "https://cdn.modrinth.com/data/d0w6GHbr/versions/rnRUmzOM/Simple%20Hotbar%201.20.2-1.21.x.zip",
+   "sha512": "2bcd23fcae0b76210daffb6053b773dc9c3011e2402eafd856991c61ae9d02f6e9b7055b1f629ff6697068f8554dd81caf744bb7dd547ed9ffa9c4097e242924",
+   "size": 232051,
+   "incompatible": false
+  },
+  {
+   "name": "farm-3d.zip",
+   "url": "https://cdn.modrinth.com/data/Pb23xuCB/versions/9qQvPJ1I/Farm%203D.zip",
+   "sha512": "70cb734bfeff5c5c8e64563835d21d75dd70c9a1c5288a5b4b231e2e765353d6eca034ca7b4c246b47e3f3bf2ec97e53f01684ded062c49d4fe0f1e3d81ce757",
+   "size": 395818,
+   "incompatible": false
+  },
+  {
+   "name": "fresh-textures.zip",
+   "url": "https://cdn.modrinth.com/data/p6DhaYT0/versions/w7BtJ3hF/Fresh%20Textures%20v2.0.1.1.zip",
+   "sha512": "571d7205d71c85184472d3fad48d0c5bfab4d51062c2c86f6f3d84cf4ddcba60efca692b7a507567fcd245e5ae860430378d6cf86aad809c69a57b2813d04f9a",
+   "size": 7651476,
+   "incompatible": false
+  },
+  {
+   "name": "betterhotbar-plus.zip",
+   "url": "https://cdn.modrinth.com/data/zevGVQgC/versions/few8Sxnl/BetterHotbar%2B%20Default%201.1.zip",
+   "sha512": "c512e1e85a9de5a629692b8b0651f2af7bbc5668bb56fd8fd3573968ed25949810716bd2c837cb091e43750c017f2c1d2ade72d73c0d6b91632936429d283287",
+   "size": 92896,
+   "incompatible": false
+  },
+  {
+   "name": "low-on-fire.zip",
+   "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
+   "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
+   "size": 42760,
+   "incompatible": false
+  },
+  {
+   "name": "fresh-animations.zip",
+   "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/HC1XRKGD/FreshAnimations_v1.11.2_1.20%2B.zip",
+   "sha512": "e64c2fc73d2c61f6814d1223ac2a2bb1dda7ed55edb75efef23449475140a42ef2a490c4789f42e022eca96ffa6b50b63de70a2858fc7b257421b36aab5c10b3",
+   "size": 742790,
+   "incompatible": false
+  },
+  {
+   "name": "human-era-villagers-illagers.zip",
+   "url": "https://cdn.modrinth.com/data/u69nu00u/versions/UIdTFACz/HumanEraVillagersIllagers%5B3.91.5%5D.zip",
+   "sha512": "4f6bca2f207aad36af440d4aaf97a164f4b0ae572ba7a81c5f13616504e3a3bfdb76de1c6f3eb7ecd259ad725d6155d5c1acec0d157803bb570f2e418cd818af",
+   "size": 10630345,
+   "incompatible": false
+  }
+ ],
+ "defaults": {
+  "version": 1,
+  "options": {
+   "fov": 0.5
+  },
+  "shader": {
+   "as": "Minevia Cinema.zip",
+   "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip",
+   "sha512": "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c",
+   "size": 553400,
+   "settings": [
+    "ATM_FOG_ALTITUDE=75",
+    "ATM_FOG_DISTANCE=45",
+    "ATM_NIGHT_I=0.65",
+    "BLOOM_STRENGTH=0.09",
+    "CAVE_LIGHTING=60",
+    "CLOUD_B=90",
+    "CLOUD_G=104",
+    "CLOUD_R=110",
+    "CLOUD_SHADOWS=true",
+    "CLOUD_UNBOUND_AMOUNT=1.20",
+    "COLORGRADING=true",
+    "GR_BB=76",
+    "GR_RR=108",
+    "LIGHTSHAFT_NOON_I=170",
+    "LIGHTSHAFT_QUALI_DEFINE=3",
+    "LIGHTSHAFT_RAIN_I=150",
+    "LIGHTSHAFT_SMOKE=true",
+    "LIGHTSHAFT_SUNSET_I=150",
+    "LIGHT_NIGHT_B=1.10",
+    "LIGHT_NIGHT_I=0.60",
+    "LIGHT_NIGHT_R=0.90",
+    "RAIN_PUDDLES=1",
+    "TM_CONTRAST=1.20",
+    "TM_DARK_DESATURATION=0.35",
+    "TM_EXPOSURE=0.85",
+    "T_SATURATION=0.80",
+    "T_VIBRANCE=0.95"
+   ]
+  }
+ },
  "characters": [
   {
    "id": "alither",
