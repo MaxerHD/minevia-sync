@@ -16,6 +16,12 @@
    "size": 1082585
   },
   {
+   "name": "BadOptimizations-2.4.1-1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
+   "sha512": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac",
+   "size": 283566
+  },
+  {
    "name": "BOMD-1.10.2-1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar",
    "sha512": "64e434b0841d594857191eeed066927f3ade0cd71e39e458fffe3208096398123745de57d1e9fce24842496559cb4614e58f34f85201df093647e20dc41dff8f",
@@ -46,6 +52,12 @@
    "size": 1014044
   },
   {
+   "name": "Corgilib-Fabric-1.21.1-5.0.0.10.jar",
+   "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/srVXMYcH/Corgilib-Fabric-1.21.1-5.0.0.10.jar",
+   "sha512": "27273c9ff7324b1149cafa7b0a21ff9763572a8d4227160931fcea9e9dbfc47e5f540c0e4a1deef8a64822b01e69832e27c852b4c494c2d09258cabd93ccfcfb",
+   "size": 692966
+  },
+  {
    "name": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
    "sha512": "b7df5f09693b8a5227b9fed27929b5a2f392b867a6f7c8e725f433ee869ba379b59d0ec78c8283864bd5b84c2c146fe874ebdc59872d9a87595ed88373f95779",
@@ -56,6 +68,12 @@
    "url": "https://cdn.modrinth.com/data/cl223EMc/versions/K1dyr5gj/cristellib-fabric-1.21.1-3.1.7.jar",
    "sha512": "7a71a8f409d14268461bebb8d7c45a1e15e82f379d92c6f6938eb20cc480cc6bbb763affc1ac582c3733eac2c403788f1cf43edcb4abe345054b0acc5c4c045d",
    "size": 584853
+  },
+  {
+   "name": "Data_Anchor-fabric-1.21.1-2.0.0.18.jar",
+   "url": "https://cdn.modrinth.com/data/z2XEADmE/versions/3Dc7hr5f/Data_Anchor-fabric-1.21.1-2.0.0.18.jar",
+   "sha512": "1f7a94fa6fcd807356f10f57ae8e8dd37c125a816667b16d6efa278bd176ff5b05e461c3a77711da577f3e0ec36e84c558d34e75f7a052477e40ca0b32ab7279",
+   "size": 126158
   },
   {
    "name": "dungeons-and-taverns-v4.4.4.jar",
@@ -92,6 +110,24 @@
    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
    "sha512": "2680e7b0a93152d4220afdc30a0452c911dc4b5c9ce1db1b7246c21b777bc2a1945fe97c98c09941d31b7478ae357135a1ef51cd3ba92d08dce35202a830b70d",
    "size": 1098223
+  },
+  {
+   "name": "Enhanced-Celestials-2-Core-Fabric-1.21.1-2.0.3.4.jar",
+   "url": "https://cdn.modrinth.com/data/ugCWUHV9/versions/ogeGZbvu/Enhanced-Celestials-2-Core-Fabric-1.21.1-2.0.3.4.jar",
+   "sha512": "4c6f8296728feb5ab8d8b4e4e68341a60e8a39ea5852436e97f02c0a44a170bacb9797c4618e0092cafc82321a4055712f2c533952d208095f159da58891b236",
+   "size": 1041375
+  },
+  {
+   "name": "Enhanced-Celestials-2-Default-Lunar-Events-Fabric-1.21.1-2.0.1.4.jar",
+   "url": "https://cdn.modrinth.com/data/19P0GlZk/versions/ETxcPIDO/Enhanced-Celestials-2-Default-Lunar-Events-Fabric-1.21.1-2.0.1.4.jar",
+   "sha512": "83e3b4a1839cd5ea4c5b350002586761a78a464552f1d9af419706cce14862c75ad2883f761435caf52746c11c82312abedc8f24592dc62bbfb1207a680bde97",
+   "size": 1507066
+  },
+  {
+   "name": "Enhanced-Celestials-2-Shaders-Fabric-1.21.1-2.0.0.4.jar",
+   "url": "https://cdn.modrinth.com/data/6cEnKtmZ/versions/HkhMNHvG/Enhanced-Celestials-2-Shaders-Fabric-1.21.1-2.0.0.4.jar",
+   "sha512": "3f728bac4bc48f18bc7f787279dcf20128746be61d765ade8108dc28df96080e40f01865acaccf3848685e8081637fdaf0ffd1aa2894c28695f008d3bc10cdd3",
+   "size": 117193
   },
   {
    "name": "entityculling-fabric-1.11.3-mc1.21.1.jar",
@@ -134,6 +170,12 @@
    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
    "sha512": "3ad31620fac4ff44327dc7dedbe162b2d978f3f246dc16255a6e400ce9592a0d326fe36a626f3c1bf30a11f813093cbb4dcc107af039cff724d0cdf648541fdf",
    "size": 123450
+  },
+  {
+   "name": "From-The-Fog-1.21-1.21.1-v1.9.4-Forge-Fabric.jar",
+   "url": "https://cdn.modrinth.com/data/p1WH6sHr/versions/iZaSVw3p/From-The-Fog-1.21-1.21.1-v1.9.4-Forge-Fabric.jar",
+   "sha512": "d3b9e6e69d5d96adb30bc378a1784603baaed78d616f7dcc939d9b649a71967e8960dc8f4b7ee5a6d3195f95cbe8d2125dd539468cbda63fd15ea0190f726dde",
+   "size": 4649932
   },
   {
    "name": "geckolib-fabric-1.21.1-4.9.3.jar",
@@ -202,10 +244,10 @@
    "size": 124782
   },
   {
-   "name": "minevia-elements-0.14.1.jar",
-   "url": "files/minevia-elements-0.14.1.jar",
-   "sha512": "9592f46b980e3e72d37804f0945854ce081b18f1be565d4b310ed7080465046d75738899a7d28f8d17504172189f6a5fe4cd48a647c7a1feffea453c69db0ab4",
-   "size": 59779595
+   "name": "minevia-elements-0.14.2.jar",
+   "url": "files/minevia-elements-0.14.2.jar",
+   "sha512": "fe253157c7f58f0f1b4d4e948ba9bcaa15823dd4ce9ce042341d37d3058b31521a562a6a18a2694d8d8c59bd9cd4f0b12966fcf3cbe1ae03baa9e9747c301b8b",
+   "size": 59781187
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
@@ -232,6 +274,12 @@
    "size": 75984
   },
   {
+   "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+   "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e",
+   "size": 216183
+  },
+  {
    "name": "particlerain-4.0.3+1.21.1-fabric.jar",
    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/GBivJmD5/particlerain-4.0.3%2B1.21.1-fabric.jar",
    "sha512": "9b5934f6550055f634a60620ed5230a3cc211b3e3e86876e3b82dbaa7322f700c23dc73516e5c6893b9d45c962e0f25f285501148849b4334007ada56c6da544",
@@ -248,6 +296,12 @@
    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XtuPOKUN/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar",
    "sha512": "7784880c4dedae15e3e03c6de4cfa67a9ed242006f90b764c0fa6fda8679e219ca6c9987aae76ec9b0fff6f8cc38fff86b16e2836aaa0200998c9de938617d3e",
    "size": 257229
+  },
+  {
+   "name": "ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+   "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Yx1tgJMI/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar",
+   "sha512": "bbfe02184c3bf3b0da28175574a5a236ce7c9acc00069addd69770857f2ac572924893f3eb033bbbc965afa9779c7a7f8fc54168f9e90481a40de92f6ee3645f",
+   "size": 177266
   },
   {
    "name": "sodium-extra-fabric-0.9.5+mc1.21.1.jar",
