@@ -202,10 +202,10 @@
    "size": 124782
   },
   {
-   "name": "minevia-elements-0.14.0.jar",
-   "url": "files/minevia-elements-0.14.0.jar",
-   "sha512": "053606c6c7d6939b92a7a78bd26f444ba998d56b3308496dec6ce109f9addf42cd110b971243ef05e907f64bad0a6826a3c0dbc38111a27306ffaac3a9aae745",
-   "size": 59821199
+   "name": "minevia-elements-0.14.1.jar",
+   "url": "files/minevia-elements-0.14.1.jar",
+   "sha512": "9592f46b980e3e72d37804f0945854ce081b18f1be565d4b310ed7080465046d75738899a7d28f8d17504172189f6a5fe4cd48a647c7a1feffea453c69db0ab4",
+   "size": 59779595
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
