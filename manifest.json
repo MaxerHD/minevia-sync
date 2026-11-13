@@ -286,10 +286,10 @@
    "size": 124782
   },
   {
-   "name": "minevia-elements-0.15.2.jar",
-   "url": "files/minevia-elements-0.15.2.jar",
-   "sha512": "f143d2a143acc91562ec25a77054932c2ab1f6f88bf93deeb00524cffdc64ef6cea8c40b7f0b35d97294a563765ab3e692ff4026f3f1fd36a9c9dc5a193917d6",
-   "size": 61407060
+   "name": "minevia-elements-0.15.3.jar",
+   "url": "files/minevia-elements-0.15.3.jar",
+   "sha512": "2fb3f2d0482d8248e34768fae9eabc62b0eaf001bd50d0d5d4282474c9febe4ec12de80136a708b2d762a760544344b01e27046dab65615353303aac03b1a09c",
+   "size": 61404494
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
@@ -404,6 +404,12 @@
    "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
    "sha512": "793f7164f9caf1b8e2b6b2f9f1327c40179b633217702bf79e16930cc5c548e44e6f0cac4628963fcc9e65cc9d63c4493678840242017c33be92a0e94c880f51",
    "size": 79452
+  },
+  {
+   "name": "voicechat-fabric-1.21.1-2.6.22.jar",
+   "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
+   "sha512": "c44e69400ac7349ad6d4699263bde4d87359e03233c31a872eb02542658cfc73a185b46e4361c54cb1ac029a2991bd8eb4d4ea59b1c3e3b43f234087520b325a",
+   "size": 5369475
   },
   {
    "name": "weatherglass-0.6.0-1.21.1-fabric.jar",
