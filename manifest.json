@@ -34,6 +34,12 @@
    "size": 229645
   },
   {
+   "name": "cinematic-interactions-Fabric-1.21.1-0.18.30.jar",
+   "url": "files/cinematic-interactions-Fabric-1.21.1-0.18.30.jar",
+   "sha512": "2227edd1c85aa5d91218ec023b87e868975e232f5d9cf0f6928537dfd4e16d58def80a024b4b2298fc918ae251ffc82260663b16d118f65a2d036d5fa55c8630",
+   "size": 1353606
+  },
+  {
    "name": "cloth-config-15.0.140-fabric.jar",
    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
    "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00",
@@ -86,6 +92,12 @@
    "url": "https://cdn.modrinth.com/data/WQaxNzFg/versions/zzENcchW/deimos-1.21.1-fabric-2.8.jar",
    "sha512": "f48bbb124a7d22a634110c1b0fae8643de57aa58055d5947cf8a8119d8c7dbd7a94bc539e6384a72d69c82c02d8d2e9750801e798a46b263ec571242c991a6fd",
    "size": 49809
+  },
+  {
+   "name": "diegesis-fabric-1.21.1-1.0.0-beta.8.jar",
+   "url": "files/diegesis-fabric-1.21.1-1.0.0-beta.8.jar",
+   "sha512": "a94fd60877f4b079c5d37ec6e2343427784ea5f98fcce62c9a74277adefa1bdc12ba1748ddf883aa8406b396adfd28a89410b338017a39bf0c0e36b736cba0f7",
+   "size": 803116
   },
   {
    "name": "dungeons-and-taverns-v4.4.4.jar",
@@ -208,6 +220,12 @@
    "size": 10991782
   },
   {
+   "name": "handson_delight-fabric-1.21.1-1.4.0.jar",
+   "url": "files/handson_delight-fabric-1.21.1-1.4.0.jar",
+   "sha512": "7faa5a3776ee04242aa5501a31cea41a0c55c95008262ad7bc22d4d84f080a97cb50af51febd57d1433a33d097a38389cfc1ced9582b4a8b8d3551f4ea110cfa",
+   "size": 730239
+  },
+  {
    "name": "hollow-steve-1.21.1-fabric-4.1.0.jar",
    "url": "https://cdn.modrinth.com/data/rfgvBkts/versions/hw0JlqWS/hollow-steve-1.21.1-fabric-4.1.0.jar",
    "sha512": "e0d3157d2235daf67044184ee7f2f7cc5a48c140901b5511a688f97052e42da2a12a64955d34b6a06aa291dd3efafda00da036281360b30338849116cbc4f29d",
@@ -304,6 +322,12 @@
    "size": 216183
   },
   {
+   "name": "overtone-0.2.2-mc1.21.1-fabric.jar",
+   "url": "files/overtone-0.2.2-mc1.21.1-fabric.jar",
+   "sha512": "16eb95403096e3ff87564ab2136af275a5f87bcc70f4fae9ef704a06efd2c3d88df5428023af096b76b2457de3359f077872130f20301c6c78fd0c780abb0dc8",
+   "size": 1115164
+  },
+  {
    "name": "particlerain-4.0.3+1.21.1-fabric.jar",
    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/GBivJmD5/particlerain-4.0.3%2B1.21.1-fabric.jar",
    "sha512": "9b5934f6550055f634a60620ed5230a3cc211b3e3e86876e3b82dbaa7322f700c23dc73516e5c6893b9d45c962e0f25f285501148849b4334007ada56c6da544",
@@ -380,6 +404,12 @@
    "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
    "sha512": "793f7164f9caf1b8e2b6b2f9f1327c40179b633217702bf79e16930cc5c548e44e6f0cac4628963fcc9e65cc9d63c4493678840242017c33be92a0e94c880f51",
    "size": 79452
+  },
+  {
+   "name": "weatherglass-0.6.0-1.21.1-fabric.jar",
+   "url": "files/weatherglass-0.6.0-1.21.1-fabric.jar",
+   "sha512": "5fe512e47155308fb606b5b7eb77a792dad3084135096d8bf76838c81810fb45d9b6fabb9371e5d1979bbdf9db30ebcaa187262fe9f72dae090545394e0d1b30",
+   "size": 614869
   },
   {
    "name": "xaerominimap-fabric-1.21.1-26.6.0.jar",
