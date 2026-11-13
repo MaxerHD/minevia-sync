@@ -286,10 +286,10 @@
    "size": 124782
   },
   {
-   "name": "minevia-elements-0.15.0.jar",
-   "url": "files/minevia-elements-0.15.0.jar",
-   "sha512": "f4c5ce00dff00f4609904769b49cc6ada8b06432fb99edeabe3d770439d6bb0254cb1b70b50b0314f60272f0c026ee0163d7fcda6822ffc1293b692d2b9fca28",
-   "size": 61399573
+   "name": "minevia-elements-0.15.1.jar",
+   "url": "files/minevia-elements-0.15.1.jar",
+   "sha512": "d7821749068493855dbeef5fe0e557ce56fabab42c4639d3cfe604cc7c88a920110f360008efbc94b919166776842ef8600b6912153b3c2b63638eb5f596a4aa",
+   "size": 61399393
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
@@ -410,12 +410,6 @@
    "url": "files/weatherglass-0.6.0-1.21.1-fabric.jar",
    "sha512": "5fe512e47155308fb606b5b7eb77a792dad3084135096d8bf76838c81810fb45d9b6fabb9371e5d1979bbdf9db30ebcaa187262fe9f72dae090545394e0d1b30",
    "size": 614869
-  },
-  {
-   "name": "xaerominimap-fabric-1.21.1-26.6.0.jar",
-   "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/W4dcLcUs/xaerominimap-fabric-1.21.1-26.6.0.jar",
-   "sha512": "bad6dfbdfa4fa83c10155380e44e7c7a181c86144cbb377548a3df94e1fdadb88a27dbf18dca89bf8748a49a1c485a03b458e1f74a7881029763297106ed26b7",
-   "size": 2234556
   },
   {
    "name": "YungsApi-1.21.1-Fabric-5.1.9.jar",
