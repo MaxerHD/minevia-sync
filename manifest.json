@@ -100,12 +100,6 @@
    "size": 692966
   },
   {
-   "name": "corner-entity-2.0.0+1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/OgLaprYY/versions/4X0FgsDk/corner-entity-2.0.0%2B1.21.1.jar",
-   "sha512": "298cde228ff16d3e9216034e7b0dba4c35bea1adc3b01ab89e50f3831415da6f0f1193f8f1c546a2ba67c5089720a22e8210a232cf35b5f3de1fcb61743332d4",
-   "size": 2657064
-  },
-  {
    "name": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
    "sha512": "b7df5f09693b8a5227b9fed27929b5a2f392b867a6f7c8e725f433ee869ba379b59d0ec78c8283864bd5b84c2c146fe874ebdc59872d9a87595ed88373f95779",
@@ -158,12 +152,6 @@
    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
    "sha512": "42c7043517889274f2932f257a78d0a67c22f2bebb1385ab4d0ba7936da2163e907d63f22bfeed5126342b568ddf4d7bc576ab6e76401a07d20a4978ba61bf20",
    "size": 217532
-  },
-  {
-   "name": "e4mc-fabric-6.2.3.jar",
-   "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/8wsUJ306/e4mc-fabric-6.2.3.jar",
-   "sha512": "de52773df77c5653500b139781173386e4e779bcfae79a91c93e4c3cd31ba412c3b1110360701efa6433733a6f6cf7738c11cbdafc88fccad786ef7412eabf1a",
-   "size": 663705
   },
   {
    "name": "earth-and-water-1.0.3-1.21-hotfix.jar",
@@ -388,16 +376,10 @@
    "size": 2087232
   },
   {
-   "name": "mcwifipnp-1.9.0-1.21-fabric.jar",
-   "url": "https://cdn.modrinth.com/data/RTWpcTBp/versions/RkAsw6nA/mcwifipnp-1.9.0-1.21-fabric.jar",
-   "sha512": "f5592dc13e67bf4639430b51e14caeed5312d0d76399554e0807870e6ec496357cf12aff23f64247deac61120c263d0e8021220022fcb1f508301c8da0accb52",
-   "size": 124782
-  },
-  {
-   "name": "minevia-elements-0.17.2.jar",
-   "url": "files/minevia-elements-0.17.2.jar",
-   "sha512": "67a4b7de97fc8f180cfebc3ad4f263697fa2612b87beac2ce12bd9635e1a3e56e4da153bfb2d9dda51248005a4a859ebce2bae4b58b64e0696c39aac8038bcc7",
-   "size": 52688069
+   "name": "minevia-elements-0.17.3.jar",
+   "url": "files/minevia-elements-0.17.3.jar",
+   "sha512": "42f1d324dbca1de696451029d8656c9f520c5291c4c9e116112a54357523c23b56be689eb97cbc60ed3bd515f722662bc321afbe426cca11f58bcb5ff39ccaf5",
+   "size": 52688364
   },
   {
    "name": "minevia-skins-1.1.0.jar",
@@ -422,6 +404,12 @@
    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/rNZyhcD6/moonlight-1.21.1-3.8.0-fabric.jar",
    "sha512": "4e706e6412cbec3b4eb90dd78576e5cca8decc118a10f6423fcf95708b60472b81e7cabbec1385543a1ff3f1960a804735aa61454ad10f85acc0600056fe12c7",
    "size": 2338478
+  },
+  {
+   "name": "mooseman-fabric-1.0.0+1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/HzeQGf0P/versions/ud3nWjkQ/mooseman-fabric-1.0.0%2B1.21.1.jar",
+   "sha512": "0b8c7ec1cbb34c061e1a2991659ee7445302cc1692c07dfb156f7e4147a6b467bea04a73c866d1e1ede9b15190f1f9c514cb554c088a2d6e449e077b80241b7e",
+   "size": 173869
   },
   {
    "name": "MouseTweaks-fabric-mc1.21-2.26.jar",
