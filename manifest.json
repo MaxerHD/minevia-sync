@@ -286,16 +286,16 @@
    "size": 124782
   },
   {
-   "name": "minevia-elements-0.16.0.jar",
-   "url": "files/minevia-elements-0.16.0.jar",
-   "sha512": "1c5c0b2a1773c3cb696a835f37baa56b393ba10caf00d438d73a316445f570df00588f86193267a441385bc8375e41295c80da97ee98d881c0e36cb0fe644bbd",
-   "size": 50139317
+   "name": "minevia-elements-0.17.0.jar",
+   "url": "files/minevia-elements-0.17.0.jar",
+   "sha512": "dac0465d7828ae4410119f311ab8ea714b384bd5df045a1dfd2fad74e801a6d4e3de8a3527aed28f4112453ae0a1aec13b1e3db5d693b43843f24d6025d87c9d",
+   "size": 52568495
   },
   {
-   "name": "minevia-skins-1.0.0.jar",
-   "url": "files/minevia-skins-1.0.0.jar",
-   "sha512": "6e942124da2124a676252da1a929cc17c6a2a9bca533eb967e492647fe3baf9bd8c51ba326e5449fd26e8379e2b28d5a9d7ceaf08dbebcbc96fd41a1fdd96834",
-   "size": 28012
+   "name": "minevia-skins-1.1.0.jar",
+   "url": "files/minevia-skins-1.1.0.jar",
+   "sha512": "1546665fd2cf6d61077fb7f7a4149b301ad41430fb98cfed2835e3709b4c809dda5a36231912403229566ce80dfe1c22b27cbf4251a2f2597ed3597f97be3b19",
+   "size": 31679
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
