@@ -166,10 +166,10 @@
    "size": 1098223
   },
   {
-   "name": "entityculling-fabric-1.11.3-mc1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/yllJFBpU/entityculling-fabric-1.11.3-mc1.21.1.jar",
-   "sha512": "51cc760b886f53a8469f5f87098688c8e00a70e9499f4146908f676dc95c78bbfd6de6ddab124e5ba8c1057335c3727c24243af2807497c6e4b05cb2da811364",
-   "size": 1519243
+   "name": "entityculling-fabric-1.12.1-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ePsqkPkO/entityculling-fabric-1.12.1-mc1.21.1.jar",
+   "sha512": "8b0e2a54a4b08edeb2aaf2dd4d6d20f152f7a88ddc266525f79661b46bfd00638d7ff03a628f258d0f27f2f99728ce1ffc182c0d547a686df7d3544b549d2b9b",
+   "size": 1533262
   },
   {
    "name": "entity_model_features-3.3.12-1.21-fabric.jar",
@@ -230,6 +230,12 @@
    "url": "https://cdn.modrinth.com/data/H5XMjpHi/versions/UowdyPMu/firstperson-fabric-2.7.3-mc1.21.1.jar",
    "sha512": "b1e035d282ea4f1a2e1accb2bb4a45ab6ea0369b58b9536da5c7de0c533db0b295b95f140104c77c110eb2a4abf220ac95c1313a508e7930b82ec482ac16f9b5",
    "size": 1546239
+  },
+  {
+   "name": "fwa+1.21.1-1.3.7.jar",
+   "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/ALikGbmR/fwa%2B1.21.1-1.3.7.jar",
+   "sha512": "ca716986125d8913ae4ee5d37f75bf15c43c15c76600ea8643acd57e03b48a40a8e18a00b7a4c3223618a43ccee7ec29498bde2e2482bca9f6b344b511ce9378",
+   "size": 419157
   },
   {
    "name": "fzzy_config-0.7.7+1.21.jar",
@@ -777,7 +783,7 @@
    "title": "Master of slaves",
    "username": "Master_of_slaves",
    "skin": "skins/Master%20of%20slaves.png",
-   "sha512": "5ec4b32be9cba276cce3005bcd7ac3b421106f27eabdb32c405accdf884429efa273b7c202af3c4f03bd3b57a775088fac85c49cd622e9d8e59dbe352c870886"
+   "sha512": "7e1cb8f723227fca02a3745815aafb108dd8bf7ecf232b23575d065aef43df8ad94c2a6e33ac91d7ab4e2055c699bf1c8ef8ec44f040da5068600c004ed159f0"
   },
   {
    "id": "niga",
