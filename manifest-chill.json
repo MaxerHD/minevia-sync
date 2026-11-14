@@ -316,6 +316,12 @@
    "size": 124782
   },
   {
+   "name": "minevia-skins-1.0.0.jar",
+   "url": "files/minevia-skins-1.0.0.jar",
+   "sha512": "6e942124da2124a676252da1a929cc17c6a2a9bca533eb967e492647fe3baf9bd8c51ba326e5449fd26e8379e2b28d5a9d7ceaf08dbebcbc96fd41a1fdd96834",
+   "size": 28012
+  },
+  {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
    "sha512": "dc67d6e023e1fcdeaf7837917c477cba212c611dfc2463c6ea021319c644087c79b477e0ea8194e113ddd7332fd5c6d82baa47c291eaac7f4a86252507b4e19f",
@@ -752,28 +758,28 @@
    "title": "Alither",
    "username": "Alither",
    "skin": "skins/Alither.png",
-   "sha512": "88188952a21d80a38a2cdab3131ccec5bc2d3422a1e1f26f0f8b3c0c9ea034a76ee064c73d8168fd862ea7221775dc0e92b42c5c7f4adb748fb281ceabc28e87"
+   "sha512": "375df67020364b60724cff49c2bd53436829189333184c8943e672ef102a498be14cad6ffdba763adb94d2ee42e0fa3b2426e592c6e7e8c7ed4fc4f55cbf198c"
   },
   {
    "id": "master-of-slaves",
    "title": "Master of slaves",
    "username": "Master_of_slaves",
    "skin": "skins/Master%20of%20slaves.png",
-   "sha512": "a84d2bf3af5a8419a2cd7b6674cb1c958356f6369e225fd478bdc116bcb95f42c3319d3d3fdfda9f0a6ba9092b4e555fc3b4debcf2ebab26ff7c56fcd0d1dac9"
+   "sha512": "0273055764b4276e8597a56c9a4cf009c31be75a9c27da18e685acd42ec3d1d43089614281edcc76b3b03b15bae59896ef56555dd2784a073b7a5c6a415c94a1"
   },
   {
    "id": "niga",
    "title": "Niga",
    "username": "Niga",
    "skin": "skins/Niga.png",
-   "sha512": "15c91d667753366b4c759878c45523f4629059176ffa39fb077b3db603aff033218e2b0880c879f38da1c5146f80b970b952d12bb17c6ecaa1a34768d05a1e35"
+   "sha512": "0c0c430d4069e227ad8ab747b0569890aef320771f42c4b60307028b70079a333388576d189d082650ad3229c44d7c7749312250fa17ba1fa249606a51f154a8"
   },
   {
    "id": "zlauka",
    "title": "Zlauka",
    "username": "Zlauka",
    "skin": "skins/Zlauka.png",
-   "sha512": "fc1e3d61cccad79ca800da54a22ae2e68886074b6a247342f83f4521bb3831624919b0f6103b48d592b2b3e7d2102e86c711bfbcb4d769d828531a41e3fa698f"
+   "sha512": "a88a0029d4038cacca6c849895d01ad00d75e3966affbec686af9b5377497a51f88bfbe2f880c944cc63661fb02c7e76d616181735dbed385fdb803d60486f92"
   }
  ]
 }
