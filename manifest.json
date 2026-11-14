@@ -286,10 +286,10 @@
    "size": 124782
   },
   {
-   "name": "minevia-elements-0.15.5.jar",
-   "url": "files/minevia-elements-0.15.5.jar",
-   "sha512": "343fc32cb9a14ca11b3d204de6958ec0ebe2651b0b1482bc6e7a52e8c718bb748ade4369da628a8c4b28b16e3abb57ee3df0d3708de706e5824d713f95764a40",
-   "size": 61395847
+   "name": "minevia-elements-0.16.0.jar",
+   "url": "files/minevia-elements-0.16.0.jar",
+   "sha512": "1c5c0b2a1773c3cb696a835f37baa56b393ba10caf00d438d73a316445f570df00588f86193267a441385bc8375e41295c80da97ee98d881c0e36cb0fe644bbd",
+   "size": 50139317
   },
   {
    "name": "minevia-skins-1.0.0.jar",
