@@ -758,28 +758,28 @@
    "title": "Alither",
    "username": "Alither",
    "skin": "skins/Alither.png",
-   "sha512": "375df67020364b60724cff49c2bd53436829189333184c8943e672ef102a498be14cad6ffdba763adb94d2ee42e0fa3b2426e592c6e7e8c7ed4fc4f55cbf198c"
+   "sha512": "c99aa763599c10ed7e52ac8c50cb6c35131f97d0f08ef4b8b1a83b9c2644719749af1b0aa83588080e017c2ef33c8b67c342e225c73ecccfd0330ea350ab38a3"
   },
   {
    "id": "master-of-slaves",
    "title": "Master of slaves",
    "username": "Master_of_slaves",
    "skin": "skins/Master%20of%20slaves.png",
-   "sha512": "0273055764b4276e8597a56c9a4cf009c31be75a9c27da18e685acd42ec3d1d43089614281edcc76b3b03b15bae59896ef56555dd2784a073b7a5c6a415c94a1"
+   "sha512": "5ec4b32be9cba276cce3005bcd7ac3b421106f27eabdb32c405accdf884429efa273b7c202af3c4f03bd3b57a775088fac85c49cd622e9d8e59dbe352c870886"
   },
   {
    "id": "niga",
    "title": "Niga",
    "username": "Niga",
    "skin": "skins/Niga.png",
-   "sha512": "0c0c430d4069e227ad8ab747b0569890aef320771f42c4b60307028b70079a333388576d189d082650ad3229c44d7c7749312250fa17ba1fa249606a51f154a8"
+   "sha512": "e0ddac4f6e40963889adfab766f815ea7bda27846a9cdd4177b63c1637230fcded2c287d9a6a8a6a6505e9dd3611c70cd6168ff77a6d367b60bb5806cf4e0b61"
   },
   {
    "id": "zlauka",
    "title": "Zlauka",
    "username": "Zlauka",
    "skin": "skins/Zlauka.png",
-   "sha512": "a88a0029d4038cacca6c849895d01ad00d75e3966affbec686af9b5377497a51f88bfbe2f880c944cc63661fb02c7e76d616181735dbed385fdb803d60486f92"
+   "sha512": "d1c2cafa465019b76dec0a0065e35a338df23af9b45e4fb27a4e857e6052e482022b7f0e6f6a8bf00dcb19cbc82e5ac4e5399084688e3560b0f5824fa42c0763"
   }
  ]
 }
