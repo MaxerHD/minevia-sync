@@ -316,10 +316,16 @@
    "size": 2087232
   },
   {
-   "name": "minevia-skins-1.1.1.jar",
-   "url": "files/minevia-skins-1.1.1.jar",
-   "sha512": "4a7dce62571f32fa113b0195e7ac5e499344a8b1b31fb8ad13439398bd1f4bd52f210b0e65b6df9ab004d88732e259d13d6832c6dbaf802eeda1848c598dbd7d",
-   "size": 32485
+   "name": "minevia-jojo-1.0.0.jar",
+   "url": "files/minevia-jojo-1.0.0.jar",
+   "sha512": "3c12edfbff80b76a361f537e421cb03ef30a26a0b1ecb2bb9f5aa2cd39fad16a4bf72117a3627d8f399286b4a0edb64d0aa4de38c9d1afc5e9fe3e919950b727",
+   "size": 47264
+  },
+  {
+   "name": "minevia-skins-1.1.2.jar",
+   "url": "files/minevia-skins-1.1.2.jar",
+   "sha512": "94915087e80eb90c3ac82a58e20826714b90f772acfa7157892a525dddce4e8046f351792b82a05d8a38207a3abac657a068c2d5d3a63ee98a3531185ea6aaaa",
+   "size": 32515
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
