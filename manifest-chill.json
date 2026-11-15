@@ -316,10 +316,10 @@
    "size": 2087232
   },
   {
-   "name": "minevia-jojo-1.0.2.jar",
-   "url": "files/minevia-jojo-1.0.2.jar",
-   "sha512": "e9f385472a36a121da6d83981b600adba5e8e844736bea31a4525216d900debf7c56972b0a077f670a961acb5df72769a43bb4405987473d2e4c93a7fc363eda",
-   "size": 62172
+   "name": "minevia-jojo-1.0.3.jar",
+   "url": "files/minevia-jojo-1.0.3.jar",
+   "sha512": "45d25d2cfc96588cd050d67ce63c1022e77e570b1b9daedbed23bad2d9c43d283cd89cfe95215445487481e507155817d668844abee52f94faacf97c368d65dd",
+   "size": 98623
   },
   {
    "name": "minevia-skins-1.1.2.jar",
