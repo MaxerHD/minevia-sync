@@ -107,7 +107,7 @@
   },
   {
    "name": "diegesis-fabric-1.21.1-1.0.0-beta.8.jar",
-   "url": "files/diegesis-fabric-1.21.1-1.0.0-beta.8.jar",
+   "url": "https://cdn.modrinth.com/data/pyljrXOa/versions/O8v5ZZBh/diegesis-fabric-1.21.1-1.0.0-beta.8.jar",
    "sha512": "a94fd60877f4b079c5d37ec6e2343427784ea5f98fcce62c9a74277adefa1bdc12ba1748ddf883aa8406b396adfd28a89410b338017a39bf0c0e36b736cba0f7",
    "size": 803116
   },
@@ -251,7 +251,7 @@
   },
   {
    "name": "handson_delight-fabric-1.21.1-1.4.0.jar",
-   "url": "files/handson_delight-fabric-1.21.1-1.4.0.jar",
+   "url": "https://cdn.modrinth.com/data/akw8BJFr/versions/hNFuJdDs/handson_delight-fabric-1.21.1-1.4.0.jar",
    "sha512": "7faa5a3776ee04242aa5501a31cea41a0c55c95008262ad7bc22d4d84f080a97cb50af51febd57d1433a33d097a38389cfc1ced9582b4a8b8d3551f4ea110cfa",
    "size": 730239
   },
@@ -316,10 +316,10 @@
    "size": 2087232
   },
   {
-   "name": "minevia-skins-1.1.0.jar",
-   "url": "files/minevia-skins-1.1.0.jar",
-   "sha512": "1546665fd2cf6d61077fb7f7a4149b301ad41430fb98cfed2835e3709b4c809dda5a36231912403229566ce80dfe1c22b27cbf4251a2f2597ed3597f97be3b19",
-   "size": 31679
+   "name": "minevia-skins-1.1.1.jar",
+   "url": "files/minevia-skins-1.1.1.jar",
+   "sha512": "4a7dce62571f32fa113b0195e7ac5e499344a8b1b31fb8ad13439398bd1f4bd52f210b0e65b6df9ab004d88732e259d13d6832c6dbaf802eeda1848c598dbd7d",
+   "size": 32485
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
