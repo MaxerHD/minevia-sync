@@ -382,10 +382,10 @@
    "size": 52688364
   },
   {
-   "name": "minevia-skins-1.1.2.jar",
-   "url": "files/minevia-skins-1.1.2.jar",
-   "sha512": "94915087e80eb90c3ac82a58e20826714b90f772acfa7157892a525dddce4e8046f351792b82a05d8a38207a3abac657a068c2d5d3a63ee98a3531185ea6aaaa",
-   "size": 32515
+   "name": "minevia-skins-1.2.0.jar",
+   "url": "files/minevia-skins-1.2.0.jar",
+   "sha512": "71c6f52ae7d698c7700abd519283342daa4b0c403688a54507c76d57481698ae26e2b48c3334e3d222b5e9abff30c59b7dd0501f59f1d06725c7d53aba9b5aed",
+   "size": 39766
   },
   {
    "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
