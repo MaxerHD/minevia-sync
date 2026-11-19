@@ -382,6 +382,12 @@
    "size": 52688364
   },
   {
+   "name": "minevia-jjk-0.4.0.jar",
+   "url": "files/minevia-jjk-0.4.0.jar",
+   "sha512": "61c7ddea9c9a2aabe44485000f55dbf638d60af3fb74e6e4c29d6574825b9acb689e36052f1ebcaef58e85bfd137ae70e5145134a30f90415c95e390138c1e97",
+   "size": 71879506
+  },
+  {
    "name": "minevia-skins-1.2.1.jar",
    "url": "files/minevia-skins-1.2.1.jar",
    "sha512": "51b417cea3e68e0b0e5a08955a55fc10ffda484a3bd3b2f98ff9b0ba7224c1a86ee1fbc4db2a8aa0cda402d4b04e813d418facecdfbe5a09c0143098b94d7287",
