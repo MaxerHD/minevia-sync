@@ -572,6 +572,12 @@
    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
    "sha512": "ce8db36e77f089f091986b6e8bea1c33433bbcffc7a47fa18d04dea5ecd4910286943600a85b4773fdf4ed5405f52f3c0dc08fea8b1551d7725a26e1f6ef2879",
    "size": 872937
+  },
+  {
+   "name": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "sha512": "f7f6256b0d0636fac6d87ff7d06d0fa033348db23b4d1dd3b3671224ec90a28f51718226f993b44e9f02394f5b8f636199c47a0ccc9c4cdfb05fade1c1b8cbf6",
+   "size": 1914438
   }
  ],
  "packs": [
@@ -777,7 +783,7 @@
    "title": "MakserHD",
    "username": "MakserHD",
    "skin": "skins/MakserHD.png",
-   "sha512": "669f4e424bf5a38ea1ebe27bdc419f18c84bfc3671dd139065021c9cbb2821173495fcc1401e4cb4799004eb10fedb9eade6bbf4af30c62e849db8a7ae4992c4"
+   "sha512": "68ca78d58260b75ec4cd3864dd78ec8c1a382ab892ceb85eba9e7f77a53b019c4ea39d916339efc0085958d5e37227fa308301e9e4ef1e33c168b30c8769b634"
   },
   {
    "id": "master-of-slaves",
