@@ -1,7 +1,7 @@
 {
- "version": "0.4.3",
- "size": 114402274,
- "sha512": "22aee7c721ee169802e53dbda1a6bd8f73804a713ef028794402b8135a463e4a3fae9c7d8bb2f4513726f2e37b62ba8ff44eb8823659ad164125f3f8336dcb07",
+ "version": "0.4.5",
+ "size": 114411712,
+ "sha512": "1f096e59998d4bfb825343048dde09023b4065e78702425eeaa679794d38568d8fb69187ef10f9bfd9efe4b1eba93a383d708681e781b6de527d1adc92cf1a5f",
  "parts": [
   "launcher/part-0",
   "launcher/part-1"

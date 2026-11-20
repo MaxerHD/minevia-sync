@@ -1,0 +1,235 @@
+{
+ "format": 1,
+ "mc": "1.21.1",
+ "loader": "fabric",
+ "mods": [
+  {
+   "name": "BetterHitreg-1.0.7+1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/MIKwzoiY/versions/NLgq17Qb/BetterHitreg-1.0.7%2B1.21.1.jar",
+   "sha512": "1a1c9488e11feaca94bb089ed3c202ce3f6bb7bfc84826134f7035ca04db574f4c1413cdd605057ee0df0ea210bf8e0e1ddccfd0690f539fc8c35d452333801a",
+   "size": 102515
+  },
+  {
+   "name": "chunksfadein-fabric-3.0.26-1.21.jar",
+   "url": "https://cdn.modrinth.com/data/JaNmzvA8/versions/2fy935Zy/chunksfadein-fabric-3.0.26-1.21.jar",
+   "sha512": "9b094612794dcecadafcefca449d44dd1d8ebea4699768a5d58ba619a14b7a8a649c4d22349cf98027087954a965751bced2176093e2f5b3ef7e4a8308e77c39",
+   "size": 496278
+  },
+  {
+   "name": "cicada-lib-0.14.3+1.21-1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/ulZDYpW0/cicada-lib-0.14.3%2B1.21-1.21.1.jar",
+   "sha512": "283097f736a3e2182b2b40cd585c466c3629d333ed92752c8e341117b67d6a0ee8eb6bd55a447132407fc089970f2d5bd00fd2b7ba7094a1cc16965e1477d4c8",
+   "size": 381715
+  },
+  {
+   "name": "cloth-config-15.0.140-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+   "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00",
+   "size": 1157166
+  },
+  {
+   "name": "ContainerSearcher-0.3.1+mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/IK1wshSh/versions/iSBoHJMy/ContainerSearcher-0.3.1%2Bmc1.21.1.jar",
+   "sha512": "fdbc45e82862620da53b38ab21a423864dca235b7499ba57487d83a6b8716b0233c9bfd5410738d361f527a8005b34ba780bfd2512e5c6b8c05edb5df7da2cda",
+   "size": 104224
+  },
+  {
+   "name": "customfov-fabric-9.0.0+1.21.jar",
+   "url": "https://cdn.modrinth.com/data/uZAcFHLd/versions/EsCYMaOz/customfov-fabric-9.0.0%2B1.21.jar",
+   "sha512": "1ed3bf7029b87b40cea7f757acf8fe7384199a25b70b7a71c6fab2c1526d57564280ada55939368f8754b189f0bed621950eb04e1efcf26db4222e6123502775",
+   "size": 43925
+  },
+  {
+   "name": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+   "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+   "sha512": "664cb4d13b9963f6574381ec6c4f1dcfe9245f2afdfafcd89a2f1c7708d46592fbe8f6aeca18f231eaacae27e4a5eca569619fd2a7690a536a176c1de82ddf9c",
+   "size": 478842
+  },
+  {
+   "name": "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
+   "sha512": "42c7043517889274f2932f257a78d0a67c22f2bebb1385ab4d0ba7936da2163e907d63f22bfeed5126342b568ddf4d7bc576ab6e76401a07d20a4978ba61bf20",
+   "size": 217532
+  },
+  {
+   "name": "entityculling-fabric-1.12.1-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/ePsqkPkO/entityculling-fabric-1.12.1-mc1.21.1.jar",
+   "sha512": "8b0e2a54a4b08edeb2aaf2dd4d6d20f152f7a88ddc266525f79661b46bfd00638d7ff03a628f258d0f27f2f99728ce1ffc182c0d547a686df7d3544b549d2b9b",
+   "size": 1533262
+  },
+  {
+   "name": "fabric-api-0.116.18+1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5SwzqWUu/fabric-api-0.116.18%2B1.21.1.jar",
+   "sha512": "9f721c253ae2e9823cb548e8ec132c9928f80a65184e9b8dcfc489a8d632df20cbfea1e65ff8a4333bdb295c41fbe2228b43e4d41c7355d42ed4637a785840a1",
+   "size": 2453884
+  },
+  {
+   "name": "ferritecore-7.0.3-fabric.jar",
+   "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+   "sha512": "3ad31620fac4ff44327dc7dedbe162b2d978f3f246dc16255a6e400ce9592a0d326fe36a626f3c1bf30a11f813093cbb4dcc107af039cff724d0cdf648541fdf",
+   "size": 123450
+  },
+  {
+   "name": "Gamma-Utils-Fabric-2.1.3+mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/GweB3zZk/Gamma-Utils-Fabric-2.1.3%2Bmc1.21.1.jar",
+   "sha512": "1a4759f74840077fd79a343af8b485f6e6e676f13cd7625204c68f70124c86d51d323fcec082476f059675045f99bdaf0d48d6c07a0cc5acadfee82038b24b49",
+   "size": 102731
+  },
+  {
+   "name": "ImmediatelyFast-Fabric-1.6.15+1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aLnBqxFW/ImmediatelyFast-Fabric-1.6.15%2B1.21.1.jar",
+   "sha512": "d4ac2d574d80000cd59b0b362706a6f86778bfc717748dca854f05ee8d09ce158738488e58c6b8ee05d5e54017f05b6c66c3bcaa3fa357d38cbfd75893dda9f4",
+   "size": 342235
+  },
+  {
+   "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+   "sha512": "a7fbb629793c52f0be8b049f787cb598879239b1ad8e1de62e103c8b9efff140e3232b93ef1f14e505d262897d8cf9505b1126396429ad4056bff969c8674e52",
+   "size": 2791343
+  },
+  {
+   "name": "ItemLocks-Fabric-1.21-1.3.9.jar",
+   "url": "https://cdn.modrinth.com/data/tJzrFuyy/versions/AmikGda1/ItemLocks-Fabric-1.21-1.3.9.jar",
+   "sha512": "3b0df9fb8cf18f33e5aa5939f05568820137349b3686b90c65faca450be299e1f5b8fd4b5fff25804842909e78232921607fde067f64d161a7a8848e109c6e51",
+   "size": 85262
+  },
+  {
+   "name": "itemscroller-fabric-1.21-0.24.60.jar",
+   "url": "https://cdn.modrinth.com/data/JygyCSA4/versions/BmE8Lr1a/itemscroller-fabric-1.21-0.24.60.jar",
+   "sha512": "3accb47401932c7ee7b6660d3256a1cefbf05f7bad25b88a73a32c6481c573a3d3df4528b7f66c4eb254893c555e0d2b4f450109fa2045574e84b109978316d5",
+   "size": 188842
+  },
+  {
+   "name": "Jade-1.21.1-Fabric-15.10.6.jar",
+   "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar",
+   "sha512": "fbae1c796368a09c579dd780a1d510fa5ab73f0eca370ddbfe0a9e6ca162e1b806261577306a259773f309dc4938a839b2065c5eef98b2810855c241addf17f5",
+   "size": 740746
+  },
+  {
+   "name": "malilib-fabric-1.21-0.21.10.jar",
+   "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/C99LEy6r/malilib-fabric-1.21-0.21.10.jar",
+   "sha512": "9f70b4605ea23f8c8b519622a6cbdcac6c8934c70bab3b8ea2d5da071a37e71ff74406d2e154c5ba4ebc7772d76e97ae94f5760e71632bd8a11d23ae8ae9a111",
+   "size": 1411200
+  },
+  {
+   "name": "minihud-fabric-1.21-0.32.60.jar",
+   "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/v23Owcjb/minihud-fabric-1.21-0.32.60.jar",
+   "sha512": "359ba95f990a45c431e20138c62407bedab466cff4ac9240b4786b86d084f42d192eafb3d6420ce92a9a9a46d09e498dc6a5d6bbe3e9d39eb6badff6d0a3613a",
+   "size": 907264
+  },
+  {
+   "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+   "sha512": "dc67d6e023e1fcdeaf7837917c477cba212c611dfc2463c6ea021319c644087c79b477e0ea8194e113ddd7332fd5c6d82baa47c291eaac7f4a86252507b4e19f",
+   "size": 471258
+  },
+  {
+   "name": "modmenu-11.0.5.jar",
+   "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/6lgOkclV/modmenu-11.0.5.jar",
+   "sha512": "92e8e96267ff18d320903090f2ad9b32408a218919f5a0d578e232ad774c89d49a34a8271806652be7d6283f24e98432bc4af7f95855e78b843f9100d68696c7",
+   "size": 975846
+  },
+  {
+   "name": "OpponentArmorIndicator-1.0.2.jar",
+   "url": "https://cdn.modrinth.com/data/VyuB6rW6/versions/a48ckxuG/OpponentArmorIndicator-1.0.2.jar",
+   "sha512": "aca5368bbb8a2becf583212cb7eb9c2bac31bd2c04f2119f0f045631c5cd58238fbedded0e8db9ada067231f91e09c91351535f5e303e3d687bfaee2ef88ebdd",
+   "size": 192093
+  },
+  {
+   "name": "placeholder-api-2.4.2+1.21.jar",
+   "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
+   "sha512": "fc13d3a5c048dbaab86318edaf8b6c6b46ef9f1d367e8f063d19f5a9b0da66c5ae419d92c8c4608edc89a01eb44d91ffcf017fea73f39b222cbd85e82f70a233",
+   "size": 232325
+  },
+  {
+   "name": "reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XtuPOKUN/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar",
+   "sha512": "7784880c4dedae15e3e03c6de4cfa67a9ed242006f90b764c0fa6fda8679e219ca6c9987aae76ec9b0fff6f8cc38fff86b16e2836aaa0200998c9de938617d3e",
+   "size": 257229
+  },
+  {
+   "name": "sodium-fabric-0.8.13+mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+   "sha512": "8614a374593698069a80ac74de8cd9c28f3928d16819a0e0d6320b538e823f7e54e8be06d5ea5a9c268beb0e02073209d1f831a02dede851588b972367680853",
+   "size": 1574609
+  },
+  {
+   "name": "wWaypoints 0.9.1 Fabric 1.21-1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/eQke7g17/versions/EstksdcM/wWaypoints%200.9.1%20Fabric%201.21-1.21.1.jar",
+   "sha512": "6a61867b2bc6ed73332363417f002df42a19453625ea37d759a0cbb05a14cd46f89955116dfc153e72de3dfd7c19f3c57e225fd3b0c454a4fab95121fc47f25a",
+   "size": 3569453
+  }
+ ],
+ "packs": [],
+ "defaults": {
+  "version": 1,
+  "options": {
+   "fov": 0.5
+  },
+  "shader": {
+   "as": "Minevia Cinema.zip",
+   "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip",
+   "sha512": "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c",
+   "size": 553400,
+   "settings": [
+    "ATM_FOG_ALTITUDE=75",
+    "ATM_FOG_DISTANCE=45",
+    "ATM_NIGHT_I=0.65",
+    "BLOOM_STRENGTH=0.09",
+    "CAVE_LIGHTING=60",
+    "CLOUD_B=90",
+    "CLOUD_G=104",
+    "CLOUD_R=110",
+    "CLOUD_SHADOWS=true",
+    "CLOUD_UNBOUND_AMOUNT=1.20",
+    "COLORGRADING=true",
+    "GR_BB=76",
+    "GR_RR=108",
+    "LIGHTSHAFT_NOON_I=170",
+    "LIGHTSHAFT_QUALI_DEFINE=3",
+    "LIGHTSHAFT_RAIN_I=150",
+    "LIGHTSHAFT_SMOKE=true",
+    "LIGHTSHAFT_SUNSET_I=150",
+    "LIGHT_NIGHT_B=1.10",
+    "LIGHT_NIGHT_I=0.60",
+    "LIGHT_NIGHT_R=0.90",
+    "RAIN_PUDDLES=1",
+    "TM_CONTRAST=1.20",
+    "TM_DARK_DESATURATION=0.35",
+    "TM_EXPOSURE=0.85",
+    "T_SATURATION=0.80",
+    "T_VIBRANCE=0.95"
+   ]
+  }
+ },
+ "characters": [
+  {
+   "id": "alither",
+   "title": "Alither",
+   "username": "Alither",
+   "skin": "skins/Alither.png",
+   "sha512": "c99aa763599c10ed7e52ac8c50cb6c35131f97d0f08ef4b8b1a83b9c2644719749af1b0aa83588080e017c2ef33c8b67c342e225c73ecccfd0330ea350ab38a3"
+  },
+  {
+   "id": "master-of-slaves",
+   "title": "Master of slaves",
+   "username": "Master_of_slaves",
+   "skin": "skins/Master%20of%20slaves.png",
+   "sha512": "86a7a7e2ac87003207a04ebe156ba21a46d2d34b760f5777522146e5c3dab9635c1b521b471b79f7adeb5d91b1684bb2542481e85e13951dc1b9475b2b90e7c1"
+  },
+  {
+   "id": "niga",
+   "title": "Niga",
+   "username": "Niga",
+   "skin": "skins/Niga.png",
+   "sha512": "e0ddac4f6e40963889adfab766f815ea7bda27846a9cdd4177b63c1637230fcded2c287d9a6a8a6a6505e9dd3611c70cd6168ff77a6d367b60bb5806cf4e0b61"
+  },
+  {
+   "id": "zlauka",
+   "title": "Zlauka",
+   "username": "Zlauka",
+   "skin": "skins/Zlauka.png",
+   "sha512": "d1c2cafa465019b76dec0a0065e35a338df23af9b45e4fb27a4e857e6052e482022b7f0e6f6a8bf00dcb19cbc82e5ac4e5399084688e3560b0f5824fa42c0763"
+  }
+ ]
+}
