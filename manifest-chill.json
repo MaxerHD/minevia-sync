@@ -773,6 +773,13 @@
    "sha512": "c99aa763599c10ed7e52ac8c50cb6c35131f97d0f08ef4b8b1a83b9c2644719749af1b0aa83588080e017c2ef33c8b67c342e225c73ecccfd0330ea350ab38a3"
   },
   {
+   "id": "makserhd",
+   "title": "MakserHD",
+   "username": "MakserHD",
+   "skin": "skins/MakserHD.png",
+   "sha512": "669f4e424bf5a38ea1ebe27bdc419f18c84bfc3671dd139065021c9cbb2821173495fcc1401e4cb4799004eb10fedb9eade6bbf4af30c62e849db8a7ae4992c4"
+  },
+  {
    "id": "master-of-slaves",
    "title": "Master of slaves",
    "username": "Master_of_slaves",
