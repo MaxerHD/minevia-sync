@@ -160,7 +160,106 @@
    "size": 1126948
   }
  ],
- "packs": [],
+ "packs": [
+  {
+   "name": "Faithful 64x - December 2025 Release.zip",
+   "url": "https://cdn.modrinth.com/data/r4GILswZ/versions/vyty9ijM/Faithful%2064x%20-%20December%202025%20Release.zip",
+   "sha512": "14f984cbaeba8b58284ef51e64893204a655d5d54ef3e6c71aff2155829c46d2c867ddda51d24a67a40ea5e9fabb838536ecc61202c3803645b2661272945cde",
+   "size": 16053919,
+   "incompatible": false
+  },
+  {
+   "name": "Reimagined_(v1.63.7).zip",
+   "url": "https://cdn.modrinth.com/data/ta5dy0aA/versions/3tFrhmJ5/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.63.7%5D%C2%A70.zip",
+   "sha512": "2bd746f3c2f6c2f804ba69d5238e0effee1425b1d03b90631b2c8cda19a5f470cea9161f228b084b2368e147a4618f8b6e4cec56c5971590e727828958e42f8b",
+   "size": 36255954,
+   "incompatible": false
+  },
+  {
+   "name": "Fresh Textures v2.0.2.zip",
+   "url": "https://cdn.modrinth.com/data/p6DhaYT0/versions/owbWZG3e/Fresh%20Textures%20v2.0.2.zip",
+   "sha512": "0e89ea2f54447474747107e0b696406cdac5cd2185d0df96eaa958c277c95dbca3e08b6f3a1d831d52f78760bb4160208fe80b96b331f2aea98830cef7cade30",
+   "size": 7268284,
+   "incompatible": false
+  },
+  {
+   "name": "Better-Leaves-9.6.zip",
+   "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/w4ReEpuG/Better-Leaves-9.6.zip",
+   "sha512": "793dacaca4c200656e8875195e42975ecb628af114e13aad2059368b51cf45f00280f86075368e9adf492e847718a9d593bdf481664e10cf1aa9628d2a51a8d6",
+   "size": 1977146,
+   "incompatible": false
+  },
+  {
+   "name": "Undopia_3D_Doors_1.21.11_v.1.1.zip",
+   "url": "https://cdn.modrinth.com/data/e5jnoI0R/versions/I1zcFE4H/Undopia_3D_Doors_1.21.11_v.1.1.zip",
+   "sha512": "7b91b18a87922ea6e9d60eca6e48dd9bfbd11e476818f6b050fa09436a677c99e66aa446d9e14ef2b118d46df198ccd037bd372eaddf7badb741d8ff2ddf6ab5",
+   "size": 269535,
+   "incompatible": false
+  },
+  {
+   "name": "Borderless Glass v1.0.1 - 1.21.11.zip",
+   "url": "https://cdn.modrinth.com/data/1Ja8Sg6j/versions/Qe8D0wfJ/Borderless%20Glass%20v1.0.1%20-%201.21.11.zip",
+   "sha512": "d912476ea45b3fe34cdd8af366dbffec31aa78e542ae2f2ff20d3a15861b386d891d8f48c0134028e5703bac7def5f4cf090ebaee79f40cd396f40ac747bd244",
+   "size": 20691,
+   "incompatible": false
+  },
+  {
+   "name": "LowOnFire v26.2.zip",
+   "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
+   "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
+   "size": 42760,
+   "incompatible": false
+  },
+  {
+   "name": "GUIRetextures-2.1.zip",
+   "url": "https://cdn.modrinth.com/data/ZM5PH9W6/versions/wAjTwVcx/GUIRetextures-2.1.zip",
+   "sha512": "979319e94d100aec82ba53f2f93c548e32d9ddfb32683a7e9a1daa77f52c6fb35162e8f6a45ee22217c025a638c946b60aaa63e541867969660287c65b02be62",
+   "size": 604566,
+   "incompatible": false
+  },
+  {
+   "name": "Simple Hotbar 1.20.2-1.21.x.zip",
+   "url": "https://cdn.modrinth.com/data/d0w6GHbr/versions/rnRUmzOM/Simple%20Hotbar%201.20.2-1.21.x.zip",
+   "sha512": "2bcd23fcae0b76210daffb6053b773dc9c3011e2402eafd856991c61ae9d02f6e9b7055b1f629ff6697068f8554dd81caf744bb7dd547ed9ffa9c4097e242924",
+   "size": 232051,
+   "incompatible": false
+  },
+  {
+   "name": "BetterHotbar+ Default 1.1.zip",
+   "url": "https://cdn.modrinth.com/data/zevGVQgC/versions/few8Sxnl/BetterHotbar%2B%20Default%201.1.zip",
+   "sha512": "c512e1e85a9de5a629692b8b0651f2af7bbc5668bb56fd8fd3573968ed25949810716bd2c837cb091e43750c017f2c1d2ade72d73c0d6b91632936429d283287",
+   "size": 92896,
+   "incompatible": false
+  },
+  {
+   "name": "Alternative Rain Sounds 1.21.9-1.21.11.zip",
+   "url": "https://cdn.modrinth.com/data/IjeNkkG5/versions/6NhQYOHT/Alternative%20Rain%20Sounds%201.21.9-1.21.11.zip",
+   "sha512": "fc84ac9a7aed476094397e51683791f0ed3c7afeea216b2dc5fffbf6bb4b6e53be3cd9645794655f0e20a51ce4e01ae9b9b6ebbed78b5d227c770f6cc79c3281",
+   "size": 583637,
+   "incompatible": false
+  },
+  {
+   "name": "Glowing Trim Elytra(MG-5.0)(1.21.11).zip",
+   "url": "https://cdn.modrinth.com/data/2OXong6G/versions/bcOBRcai/Glowing%20Trim%20Elytra%5BMG-5.0%5D%5B1.21.11%5D.zip",
+   "sha512": "da5b8b70635acb7ec358ebed629b774c05199a63bb850a4b5eaca2b1838e767f2ab4db2d1372ad08e084fdf229300639ce75dc3fbfb9066b9d36209d4cfd9e06",
+   "size": 2484795,
+   "incompatible": false
+  },
+  {
+   "name": "Spawned_Eggs_1.16-26.2_r1.zip",
+   "url": "https://cdn.modrinth.com/data/yPBwDzHA/versions/4FFWDY0J/Spawned_Eggs_1.16-26.2_r1.zip",
+   "sha512": "d5bfb32808a9f3de10723890d8c0e6a303f45b821305a3e00a4ce98b94b6861f8d6e56da74c3ad9bfd72534dfe2dad641ca8a4ef8b72a178898f213178168d01",
+   "size": 131750,
+   "incompatible": false
+  },
+  {
+   "name": "Fluid & Foolish 1.0.1.zip",
+   "url": "https://cdn.modrinth.com/data/fQdwNxte/versions/UAp4jRDk/Fluid%20%26%20Foolish%201.0.1.zip",
+   "sha512": "09544efccdb63bbd6a2f583184bea82cfe01c78cd36f9bf9343cd8cc0243b19d7993aa280481d42c68c4b19e6abb3b52346d93115d48b50e1e37be9c53efafb9",
+   "size": 1881476,
+   "incompatible": false
+  }
+ ],
  "defaults": {
   "version": 1,
   "options": {

@@ -14,3 +14,7 @@ The list is built by `scripts/funtime-manifest.py`. Before adding a mod, check F
 the server bans forbidden mods at its checks.
 
 Existing users run Minevia-Setup.exe once to get launcher 0.4.6.
+
+Resource packs (14, all with a 1.21.11 build): Faithful 64x, Reimagined, Fresh Textures, Better Leaves, Undopia 3D Doors,
+Borderless Glass, Low on Fire, GUI Retextures, Simple Hotbar, BetterHotbar+, Alternative Rain Sounds, Glowing Trim Elytra,
+Spawned Eggs, Fluid & Foolish. Packs that need EMF/ETF or Minevia mods are not included.
