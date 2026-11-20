@@ -136,6 +136,12 @@
    "size": 192093
   },
   {
+   "name": "overtone-0.2.2-mc1.21.1-fabric.jar",
+   "url": "files/overtone-0.2.2-mc1.21.1-fabric.jar",
+   "sha512": "16eb95403096e3ff87564ab2136af275a5f87bcc70f4fae9ef704a06efd2c3d88df5428023af096b76b2457de3359f077872130f20301c6c78fd0c780abb0dc8",
+   "size": 1115164
+  },
+  {
    "name": "placeholder-api-2.4.2+1.21.jar",
    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
    "sha512": "fc13d3a5c048dbaab86318edaf8b6c6b46ef9f1d367e8f063d19f5a9b0da66c5ae419d92c8c4608edc89a01eb44d91ffcf017fea73f39b222cbd85e82f70a233",
