@@ -1,0 +1,226 @@
+{
+ "format": 1,
+ "mc": "1.20.1",
+ "loader": "forge",
+ "mods": [
+  {
+   "name": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+   "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar",
+   "sha512": "a8234d0c1b4c7a75c7b05b280a5a120dc090be2c252bf4235e34f53751aa74ea2c23614913f1fd7b43d4a841e96e178c8fd935a7630634316821139a056b3237",
+   "size": 402345
+  },
+  {
+   "name": "embeddium-0.3.31+mc1.20.1.jar",
+   "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+   "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+   "size": 1320675
+  },
+  {
+   "name": "entityculling-forge-1.12.2-mc1.20.1.jar",
+   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/emm9vBGn/entityculling-forge-1.12.2-mc1.20.1.jar",
+   "sha512": "f1d419e2c252de3be766fa11cd8a4a489cd89f8923ee976c4bd736ff46ec149c0fe3a34e47998087f34df896e30773ddfa84ffa32aaa0da3b2217a7bd1cc8736",
+   "size": 1529393
+  },
+  {
+   "name": "ferritecore-6.0.1-forge.jar",
+   "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+   "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+   "size": 123034
+  },
+  {
+   "name": "Jade-1.20.1-Forge-11.13.3.jar",
+   "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar",
+   "sha512": "72025c4ad6d26522bafe3d5d6ac9d4702c006a868312cb34df8a7a2398a4618205839607b129c167fd176e58cb7655f08e3afbf1993925c80d4fcc559c45a037",
+   "size": 553487
+  },
+  {
+   "name": "modernfix-forge-5.28.8+mc1.20.1.jar",
+   "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Jj02bs5k/modernfix-forge-5.28.8%2Bmc1.20.1.jar",
+   "sha512": "acbe9567af8072cb196f81758438d250bf0e8fc2db2b545d74a0e1e4ebd20237bc80b0e8f01c19d6358707ca300977b5925b6176a793b58ccfeaf2a4dc2ecd57",
+   "size": 1045652
+  },
+  {
+   "name": "oculus-mc1.20.1-1.8.0.jar",
+   "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+   "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5",
+   "size": 2851119
+  },
+  {
+   "name": "voicechat-forge-1.20.1-2.6.22.jar",
+   "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar",
+   "sha512": "23c8b3a593fe506af8d8e0edc0afb45349777d5cdea41ffc3fa99afc2e3b9bc7770bb9951f674017ea5b3c23e111b0c6031ebd61820c9a0b5191e3992d9c8798",
+   "size": 4923439
+  }
+ ],
+ "packs": [
+  {
+   "name": "Faithful 64x - Beta 9.zip",
+   "url": "https://cdn.modrinth.com/data/r4GILswZ/versions/YOjutORB/Faithful%2064x%20-%20Beta%209.zip",
+   "sha512": "a206b477cea63e23ea074c763c3c3c1c1f3c028abb33940be29b63bbb79583837fe81827a23b156427b44d622c2c6875d7d3cef00fab26aa1b163994ade251d5",
+   "size": 9608212,
+   "incompatible": false
+  },
+  {
+   "name": "Reimagined_(v1.63.7).zip",
+   "url": "https://cdn.modrinth.com/data/ta5dy0aA/versions/3tFrhmJ5/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.63.7%5D%C2%A70.zip",
+   "sha512": "2bd746f3c2f6c2f804ba69d5238e0effee1425b1d03b90631b2c8cda19a5f470cea9161f228b084b2368e147a4618f8b6e4cec56c5971590e727828958e42f8b",
+   "size": 36255954,
+   "incompatible": false
+  },
+  {
+   "name": "Fresh Textures v2.0.2.zip",
+   "url": "https://cdn.modrinth.com/data/p6DhaYT0/versions/owbWZG3e/Fresh%20Textures%20v2.0.2.zip",
+   "sha512": "0e89ea2f54447474747107e0b696406cdac5cd2185d0df96eaa958c277c95dbca3e08b6f3a1d831d52f78760bb4160208fe80b96b331f2aea98830cef7cade30",
+   "size": 7268284,
+   "incompatible": false
+  },
+  {
+   "name": "Better-Leaves-9.6.zip",
+   "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/w4ReEpuG/Better-Leaves-9.6.zip",
+   "sha512": "793dacaca4c200656e8875195e42975ecb628af114e13aad2059368b51cf45f00280f86075368e9adf492e847718a9d593bdf481664e10cf1aa9628d2a51a8d6",
+   "size": 1977146,
+   "incompatible": false
+  },
+  {
+   "name": "Undopia_3D_Doors_1.20.x_v.1.1.zip",
+   "url": "https://cdn.modrinth.com/data/e5jnoI0R/versions/NaCT1m00/Undopia_3D_Doors_1.20.x_v.1.1.zip",
+   "sha512": "e499d65bc6e9ad4e9c891df8a86da14fb7ab51b91b721fbf94f5cd00bfa91c399e8f5d335d54e8983cc5c5a7652da817084d084e5ed21f9ac6ba9e8d38ab0480",
+   "size": 180379,
+   "incompatible": false
+  },
+  {
+   "name": "Borderless+Glassv1.0.zip",
+   "url": "https://cdn.modrinth.com/data/1Ja8Sg6j/versions/8MUPdp61/Borderless%2B%C2%A77Glassv1.0.zip",
+   "sha512": "0f2000476f6f05f35403c5c52a3e3f9e4397506de3df6f693a975e8e56e83fe1f3482b167d3b4332dd0f0690618d7151abc22171008e11af8c9ec10ab0f9e4f4",
+   "size": 21079,
+   "incompatible": false
+  },
+  {
+   "name": "LowOnFire v26.2.zip",
+   "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
+   "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
+   "size": 42760,
+   "incompatible": false
+  },
+  {
+   "name": "Simple Hotbar 1.8.9-1.20.1.zip",
+   "url": "https://cdn.modrinth.com/data/d0w6GHbr/versions/TD7FRoEb/Simple%20Hotbar%201.8.9-1.20.1.zip",
+   "sha512": "6ec049bc5b322108f28fc2c3839cfbee3dac30644e778ffe7ffc64babdb47ead4c8d9cb25bdcc967f227735d7bd2a6c4ac093f4c20f6fe6ea8f509ac7e5fae26",
+   "size": 229087,
+   "incompatible": false
+  },
+  {
+   "name": "BetterHotbar+ Default 1.1.zip",
+   "url": "https://cdn.modrinth.com/data/zevGVQgC/versions/few8Sxnl/BetterHotbar%2B%20Default%201.1.zip",
+   "sha512": "c512e1e85a9de5a629692b8b0651f2af7bbc5668bb56fd8fd3573968ed25949810716bd2c837cb091e43750c017f2c1d2ade72d73c0d6b91632936429d283287",
+   "size": 92896,
+   "incompatible": false
+  },
+  {
+   "name": "Spawned_Eggs_1.16-26.2_r1.zip",
+   "url": "https://cdn.modrinth.com/data/yPBwDzHA/versions/4FFWDY0J/Spawned_Eggs_1.16-26.2_r1.zip",
+   "sha512": "d5bfb32808a9f3de10723890d8c0e6a303f45b821305a3e00a4ce98b94b6861f8d6e56da74c3ad9bfd72534dfe2dad641ca8a4ef8b72a178898f213178168d01",
+   "size": 131750,
+   "incompatible": false
+  }
+ ],
+ "defaults": {
+  "version": 1,
+  "options": {
+   "fov": 0.5
+  },
+  "shader": {
+   "as": "Minevia Cinema.zip",
+   "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip",
+   "sha512": "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c",
+   "size": 553400,
+   "settings": [
+    "ATM_FOG_ALTITUDE=75",
+    "ATM_FOG_DISTANCE=45",
+    "ATM_NIGHT_I=0.65",
+    "BLOOM_STRENGTH=0.09",
+    "CAVE_LIGHTING=60",
+    "CLOUD_B=90",
+    "CLOUD_G=104",
+    "CLOUD_R=110",
+    "CLOUD_SHADOWS=true",
+    "CLOUD_UNBOUND_AMOUNT=1.20",
+    "COLORGRADING=true",
+    "GR_BB=76",
+    "GR_RR=108",
+    "LIGHTSHAFT_NOON_I=170",
+    "LIGHTSHAFT_QUALI_DEFINE=3",
+    "LIGHTSHAFT_RAIN_I=150",
+    "LIGHTSHAFT_SMOKE=true",
+    "LIGHTSHAFT_SUNSET_I=150",
+    "LIGHT_NIGHT_B=1.10",
+    "LIGHT_NIGHT_I=0.60",
+    "LIGHT_NIGHT_R=0.90",
+    "RAIN_PUDDLES=1",
+    "TM_CONTRAST=1.20",
+    "TM_DARK_DESATURATION=0.35",
+    "TM_EXPOSURE=0.85",
+    "T_SATURATION=0.80",
+    "T_VIBRANCE=0.95"
+   ]
+  }
+ },
+ "characters": [
+  {
+   "id": "alither",
+   "title": "Alither",
+   "username": "Alither",
+   "skin": "skins/Alither.png",
+   "sha512": "c99aa763599c10ed7e52ac8c50cb6c35131f97d0f08ef4b8b1a83b9c2644719749af1b0aa83588080e017c2ef33c8b67c342e225c73ecccfd0330ea350ab38a3"
+  },
+  {
+   "id": "bekas",
+   "title": "Bekas",
+   "username": "Bekas",
+   "skin": "skins/Bekas.png",
+   "sha512": "f44940dda1fbc536a760fed272bdc6db873b5880e3761876c83b7b3e8e093eb0b52b21e96a3dc1c0534b386ecc796a3fac3c15f8241f578266e12376e86314c6"
+  },
+  {
+   "id": "bekzhan",
+   "title": "Bekzhan",
+   "username": "Bekzhan",
+   "skin": "skins/Bekzhan.png",
+   "sha512": "02ed7cca9f82aff6ba740521dfdfef9ddafb5d094c1c3d9f02574046cab7fa38e3c0a5cda7105a1a899d0e98e3e04ace933f26420b4c351c1205336d96f516e9"
+  },
+  {
+   "id": "farhat",
+   "title": "Farhat",
+   "username": "Farhat",
+   "skin": "skins/Farhat.png",
+   "sha512": "b83d2e1132e4d96f64f32ef864811d4df409e25766c190aa9da0806ee25d1ee5c6e09abfedfd10b99e89833057b071e9dfd8f4bf688d37e5f309992755b712e1"
+  },
+  {
+   "id": "makserhd",
+   "title": "MakserHD",
+   "username": "MakserHD",
+   "skin": "skins/MakserHD.png",
+   "sha512": "68ca78d58260b75ec4cd3864dd78ec8c1a382ab892ceb85eba9e7f77a53b019c4ea39d916339efc0085958d5e37227fa308301e9e4ef1e33c168b30c8769b634"
+  },
+  {
+   "id": "master-of-slaves",
+   "title": "Master of slaves",
+   "username": "Master_of_slaves",
+   "skin": "skins/Master%20of%20slaves.png",
+   "sha512": "86a7a7e2ac87003207a04ebe156ba21a46d2d34b760f5777522146e5c3dab9635c1b521b471b79f7adeb5d91b1684bb2542481e85e13951dc1b9475b2b90e7c1"
+  },
+  {
+   "id": "niga",
+   "title": "Niga",
+   "username": "Niga",
+   "skin": "skins/Niga.png",
+   "sha512": "e0ddac4f6e40963889adfab766f815ea7bda27846a9cdd4177b63c1637230fcded2c287d9a6a8a6a6505e9dd3611c70cd6168ff77a6d367b60bb5806cf4e0b61"
+  },
+  {
+   "id": "zlauka",
+   "title": "Zlauka",
+   "username": "Zlauka",
+   "skin": "skins/Zlauka.png",
+   "sha512": "d1c2cafa465019b76dec0a0065e35a338df23af9b45e4fb27a4e857e6052e482022b7f0e6f6a8bf00dcb19cbc82e5ac4e5399084688e3560b0f5824fa42c0763"
+  }
+ ]
+}

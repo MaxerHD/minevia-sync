@@ -779,6 +779,27 @@
    "sha512": "c99aa763599c10ed7e52ac8c50cb6c35131f97d0f08ef4b8b1a83b9c2644719749af1b0aa83588080e017c2ef33c8b67c342e225c73ecccfd0330ea350ab38a3"
   },
   {
+   "id": "bekas",
+   "title": "Bekas",
+   "username": "Bekas",
+   "skin": "skins/Bekas.png",
+   "sha512": "f44940dda1fbc536a760fed272bdc6db873b5880e3761876c83b7b3e8e093eb0b52b21e96a3dc1c0534b386ecc796a3fac3c15f8241f578266e12376e86314c6"
+  },
+  {
+   "id": "bekzhan",
+   "title": "Bekzhan",
+   "username": "Bekzhan",
+   "skin": "skins/Bekzhan.png",
+   "sha512": "02ed7cca9f82aff6ba740521dfdfef9ddafb5d094c1c3d9f02574046cab7fa38e3c0a5cda7105a1a899d0e98e3e04ace933f26420b4c351c1205336d96f516e9"
+  },
+  {
+   "id": "farhat",
+   "title": "Farhat",
+   "username": "Farhat",
+   "skin": "skins/Farhat.png",
+   "sha512": "b83d2e1132e4d96f64f32ef864811d4df409e25766c190aa9da0806ee25d1ee5c6e09abfedfd10b99e89833057b071e9dfd8f4bf688d37e5f309992755b712e1"
+  },
+  {
    "id": "makserhd",
    "title": "MakserHD",
    "username": "MakserHD",
