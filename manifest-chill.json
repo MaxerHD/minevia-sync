@@ -424,6 +424,12 @@
    "size": 177266
   },
   {
+   "name": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "sha512": "f7f6256b0d0636fac6d87ff7d06d0fa033348db23b4d1dd3b3671224ec90a28f51718226f993b44e9f02394f5b8f636199c47a0ccc9c4cdfb05fade1c1b8cbf6",
+   "size": 1914438
+  },
+  {
    "name": "sodium-extra-fabric-0.9.5+mc1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/CmiqMBZT/sodium-extra-fabric-0.9.5%2Bmc1.21.1.jar",
    "sha512": "2587475562472b7e5cdc8c2b4409de498815402156524242acbad9672a0c348288b9b3328ec82b9300593d1a02eb71022704742889e5b33b755f75709cf16827",
@@ -572,12 +578,6 @@
    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
    "sha512": "ce8db36e77f089f091986b6e8bea1c33433bbcffc7a47fa18d04dea5ecd4910286943600a85b4773fdf4ed5405f52f3c0dc08fea8b1551d7725a26e1f6ef2879",
    "size": 872937
-  },
-  {
-   "name": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
-   "sha512": "f7f6256b0d0636fac6d87ff7d06d0fa033348db23b4d1dd3b3671224ec90a28f51718226f993b44e9f02394f5b8f636199c47a0ccc9c4cdfb05fade1c1b8cbf6",
-   "size": 1914438
   }
  ],
  "packs": [
@@ -754,19 +754,31 @@
     "GR_BB=76",
     "GR_RR=108",
     "LIGHTSHAFT_NOON_I=170",
-    "LIGHTSHAFT_QUALI_DEFINE=3",
     "LIGHTSHAFT_RAIN_I=150",
     "LIGHTSHAFT_SMOKE=true",
     "LIGHTSHAFT_SUNSET_I=150",
     "LIGHT_NIGHT_B=1.10",
     "LIGHT_NIGHT_I=0.60",
     "LIGHT_NIGHT_R=0.90",
-    "RAIN_PUDDLES=1",
     "TM_CONTRAST=1.20",
     "TM_DARK_DESATURATION=0.35",
     "TM_EXPOSURE=0.85",
     "T_SATURATION=0.80",
-    "T_VIBRANCE=0.95"
+    "T_VIBRANCE=0.95",
+    "SHADOW_QUALITY=0",
+    "shadowDistance=96.0",
+    "WATER_REFLECT_QUALITY=2",
+    "BLOCK_REFLECT_QUALITY=1",
+    "LIGHTSHAFT_QUALI_DEFINE=0",
+    "SSAO_QUALI_DEFINE=2",
+    "FXAA_DEFINE=-1",
+    "DETAIL_QUALITY=2",
+    "CLOUD_QUALITY=2",
+    "ANISOTROPIC_FILTER=0",
+    "COLORED_LIGHTING=0",
+    "WORLD_SPACE_REFLECTIONS=-1",
+    "ENTITY_SHADOW=-1",
+    "RAIN_PUDDLES=0"
    ]
   }
  },

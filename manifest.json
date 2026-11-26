@@ -376,16 +376,16 @@
    "size": 2087232
   },
   {
-   "name": "minevia-elements-0.17.3.jar",
-   "url": "files/minevia-elements-0.17.3.jar",
-   "sha512": "42f1d324dbca1de696451029d8656c9f520c5291c4c9e116112a54357523c23b56be689eb97cbc60ed3bd515f722662bc321afbe426cca11f58bcb5ff39ccaf5",
-   "size": 52688364
+   "name": "minevia-elements-0.17.4.jar",
+   "url": "files/minevia-elements-0.17.4.jar",
+   "sha512": "48dc7c179f42b7f351f7370d042701454914f692a9743e0bf8d5cfedffee83132c725c1933fdd26873aef91caede2374da939c33bd81495c33a8af7fc9a03fc7",
+   "size": 53356203
   },
   {
-   "name": "minevia-jjk-0.4.0.jar",
-   "url": "files/minevia-jjk-0.4.0.jar",
-   "sha512": "61c7ddea9c9a2aabe44485000f55dbf638d60af3fb74e6e4c29d6574825b9acb689e36052f1ebcaef58e85bfd137ae70e5145134a30f90415c95e390138c1e97",
-   "size": 71879506
+   "name": "minevia-jjk-0.5.0.jar",
+   "url": "files/minevia-jjk-0.5.0.jar",
+   "sha512": "dfb9203cdc3c4064386a3cc6a4ac1dfd701c1096dcb87c0a1581bd6d9faacfaaca500b5daf201f02df655966c55628c5976dd7b4da5559b0efc60e402d1ce559",
+   "size": 77095889
   },
   {
    "name": "minevia-skins-1.2.1.jar",
@@ -466,18 +466,6 @@
    "size": 5694024
   },
   {
-   "name": "punchy-3.2b-fabric-1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WZaxBfix/punchy-3.2b-fabric-1.21.1.jar",
-   "sha512": "26556d1802302b8107448239574d4ed335e4a48c662a0118d5798ac35db651a3514512c7b7f115ab48bc62eb35d246a18cbb4cfe73130cfa5de54d40d0426a44",
-   "size": 4547732
-  },
-  {
-   "name": "punchy-moves-1.0.9-fabric-1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/aKvgyts5/punchy-moves-1.0.9-fabric-1.21.1.jar",
-   "sha512": "35275b6117ac21a6f9c6ede5970bd64cafae835bd94ff2a4b92f2e7dc071b97bcb3fbc71c4b9de44275a3a57a32c7b76b28f3350b08d2fa0734825f6f6a02f6b",
-   "size": 1891072
-  },
-  {
    "name": "reeses-sodium-options-fabric-2.2.4+mc1.21.1.jar",
    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XtuPOKUN/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.1.jar",
    "sha512": "7784880c4dedae15e3e03c6de4cfa67a9ed242006f90b764c0fa6fda8679e219ca6c9987aae76ec9b0fff6f8cc38fff86b16e2836aaa0200998c9de938617d3e",
@@ -500,6 +488,12 @@
    "url": "https://cdn.modrinth.com/data/RJ4U0qmn/versions/nQrmu57o/serversidehorror-1.21.1-fabric-5.1.jar",
    "sha512": "7f60b337d5803eb2c905c597ba764a9598597aa921e5f030cdcb9149403c9e2f06f3e77ef2b6eb36ffdb4056245cb17fd3a153396f29c2bf4cc4ab2f94f49c65",
    "size": 398892
+  },
+  {
+   "name": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+   "sha512": "f7f6256b0d0636fac6d87ff7d06d0fa033348db23b4d1dd3b3671224ec90a28f51718226f993b44e9f02394f5b8f636199c47a0ccc9c4cdfb05fade1c1b8cbf6",
+   "size": 1914438
   },
   {
    "name": "sodium-extra-fabric-0.9.5+mc1.21.1.jar",
@@ -644,12 +638,6 @@
    "url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/8h9N9fvs/YungsBridges-1.21.1-Fabric-5.1.1.jar",
    "sha512": "435c18442ca94c3b44a6972dddca7ca0f2437427627340b1c5aab7ac41001c9d9e5225de34b493acb0fec57f0fc1fe93818e0dc05d76bb059c6608e0155efb2f",
    "size": 261209
-  },
-  {
-   "name": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
-   "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
-   "sha512": "f7f6256b0d0636fac6d87ff7d06d0fa033348db23b4d1dd3b3671224ec90a28f51718226f993b44e9f02394f5b8f636199c47a0ccc9c4cdfb05fade1c1b8cbf6",
-   "size": 1914438
   }
  ],
  "packs": [
@@ -826,19 +814,31 @@
     "GR_BB=76",
     "GR_RR=108",
     "LIGHTSHAFT_NOON_I=170",
-    "LIGHTSHAFT_QUALI_DEFINE=3",
     "LIGHTSHAFT_RAIN_I=150",
     "LIGHTSHAFT_SMOKE=true",
     "LIGHTSHAFT_SUNSET_I=150",
     "LIGHT_NIGHT_B=1.10",
     "LIGHT_NIGHT_I=0.60",
     "LIGHT_NIGHT_R=0.90",
-    "RAIN_PUDDLES=1",
     "TM_CONTRAST=1.20",
     "TM_DARK_DESATURATION=0.35",
     "TM_EXPOSURE=0.85",
     "T_SATURATION=0.80",
-    "T_VIBRANCE=0.95"
+    "T_VIBRANCE=0.95",
+    "SHADOW_QUALITY=0",
+    "shadowDistance=96.0",
+    "WATER_REFLECT_QUALITY=2",
+    "BLOCK_REFLECT_QUALITY=1",
+    "LIGHTSHAFT_QUALI_DEFINE=0",
+    "SSAO_QUALI_DEFINE=2",
+    "FXAA_DEFINE=-1",
+    "DETAIL_QUALITY=2",
+    "CLOUD_QUALITY=2",
+    "ANISOTROPIC_FILTER=0",
+    "COLORED_LIGHTING=0",
+    "WORLD_SPACE_REFLECTIONS=-1",
+    "ENTITY_SHADOW=-1",
+    "RAIN_PUDDLES=0"
    ]
   }
  },
